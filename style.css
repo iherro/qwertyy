@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 201, 101);
+}
+
+header {
+    background-image: linear-gradient(rgb(22, 201, 255), white);
+    padding: 40px;
+    width: ;
+}
+
+.link-header {
+    background-color: rgb(255, 201, 101);
+    padding: 10px;
+    border-radius: 90px;
+    color: black;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.link-nav {
+    font-size: 20px;
+    margin: 20px;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
